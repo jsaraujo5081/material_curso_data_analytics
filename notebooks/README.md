@@ -40,4 +40,10 @@
 * **S06_Analisis_Inferencial_Sesiones**: Caso de estudio sobre rendimiento de empleados en un call-center, para practicar conceptos estadísticos asociados a inferencia mediante test de hipótesis e intervalos de confianza para la ejecución de pruebas A/B.
 * **S06_Analisis_Inferencial_Ejercicios**: Caso de estudio sobre cambios en tasas de conversión en el proceso de venta de una aplicación de pedidos de comida, para practicar conceptos estadísticos asociados a inferencia, pruebas A/B y análisis de embudos.
 
-## Visualizacion de Información
+## Comunicación de Resultados
+
+### Sprint 6 - Análisis Exploratorio Inferencial
+*(Tiempo estimado: 8 horas)*
+
+* **S07_Visualizacion_Interactiva_Sesiones**: Caso de estudio sobre generación de insumos para reporte de resultados comerciales en un restaurante, para practicar funcionalidades en el uso de plotly como herramienta de graficación interactiva.
+* **S07_Visualizacion_Interactiva_Ejercicios**: Ejercicios adicionales para la creación de controladores y animaciones con plotly, así como la generacion de archivos html para compartir visualizaciones interactivas.
