@@ -42,7 +42,7 @@
 
 ## Comunicación de Resultados
 
-### Sprint 6 - Análisis Exploratorio Inferencial
+### Sprint 7 - Visualización Interactiva
 *(Tiempo estimado: 8 horas)*
 
 * **S07_Visualizacion_Interactiva_Sesiones**: Caso de estudio sobre generación de insumos para reporte de resultados comerciales en un restaurante, para practicar funcionalidades en el uso de plotly como herramienta de graficación interactiva.
