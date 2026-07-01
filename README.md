@@ -27,7 +27,7 @@ El repositorio ha sido desarrollado a partir de mi experiencia dictando talleres
 * [RStudio](https://posit.co/downloads) como editor de código fuente. 
 * [Visual Studio Code](https://code.visualstudio.com/Download?_exp_download=fb315fc982) como editor de código fuente. Aquí conviene instalar las extensiones de R, Quarto, Jupyter y PostgreSQL.
 * [Pandoc](https://pandoc.org/installing.html) en especial si se trabaja en VS Code. En RStudio viene integrado.
-* [Quarto CLI](https://quarto.org/docs/download/)) en especial si se trabaja en VS Code. En RStudio viene integrado.
+* [Quarto CLI](https://quarto.org/docs/download/) en especial si se trabaja en VS Code. En RStudio viene integrado.
 * [PostgreSQL](postgresql.org/download/) como administrador de bases de datos.
 
 ## Detección de problemas
