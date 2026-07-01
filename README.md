@@ -13,6 +13,8 @@ El repositorio ha sido desarrollado a partir de mi experiencia dictando talleres
 
 * En el directorio **datasets** se encuentran todos los ficheros (*.csv, .xlsx, .txt*) a utilizar en el desarrollo de los capitulos y sus correspondientes notebooks. Esta información ha sido debidamente procesada para que su uso sea público y por tanto pueda emplearse libremente más allá de lo descrito en las temáticas aquí tratadas.
 
+* En el directorio **complementary_files** se encuentran archivos diversos que sirven de insumo para las explicaciones y demás contenido de los notebooks. Es por tanto una carpeta de material auxiliar que por si solo no aporta ningún valor agregado.
+
 ## Lenguajes utilizados en recursos
 
 * R (Ver *r_reqs* para consultar sobre módulos y librerías utilizadas en los notebooks)
