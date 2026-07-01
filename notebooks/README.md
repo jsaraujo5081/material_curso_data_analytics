@@ -43,7 +43,7 @@
 ## Comunicación de Resultados
 
 ### Sprint 7 - Visualización Interactiva
-*(Tiempo estimado: 8 horas)*
+*(Tiempo estimado: 7 horas)*
 
 * **S07_Visualizacion_Interactiva_Sesiones**: Caso de estudio sobre generación de insumos para reporte de resultados comerciales en un restaurante, para practicar funcionalidades en el uso de plotly como herramienta de graficación interactiva.
 * **S07_Visualizacion_Interactiva_Ejercicios**: Ejercicios adicionales para la creación de controladores y animaciones con plotly, así como la generacion de archivos html para compartir visualizaciones interactivas.
