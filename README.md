@@ -4,7 +4,7 @@ El repositorio ha sido desarrollado a partir de mi experiencia dictando talleres
 
 * Fundamentos de R y análisis de datos (4 capítulos).
 * Análisis exploratorio de datos (2 capítulos).
-* Visualización de información (2 capítulos).
+* Comunicación de resultados (2 capítulos).
 * Herramientas complementarias y temas avanzados de análisis (3 capítulos).
 
 ## Contenido del repositorio
@@ -16,14 +16,16 @@ El repositorio ha sido desarrollado a partir de mi experiencia dictando talleres
 ## Lenguajes utilizados en recursos
 
 * R (Ver *r_reqs* para consultar sobre módulos y librerías utilizadas en los notebooks)
-* Quarto
 * SQL (En específico PostgreSQL)
 * Powershell / Bash
 
 ## Herramientas sugeridas
 
 * [R](https://cran.r-project.org/) version 4.3 o superior.
-* [Visual Studio Code](https://code.visualstudio.com/Download?_exp_download=fb315fc982) como editor de código fuente. Aquí conviene instalar las extensiones de R, Jupyter y PostgreSQL.
+* [RStudio](https://posit.co/downloads) como editor de código fuente. 
+* [Visual Studio Code](https://code.visualstudio.com/Download?_exp_download=fb315fc982) como editor de código fuente. Aquí conviene instalar las extensiones de R, Quarto, Jupyter y PostgreSQL.
+* [Pandoc](https://pandoc.org/installing.html) en especial si se trabaja en VS Code. En RStudio viene integrado.
+* [Quarto CLI](https://quarto.org/docs/download/)) en especial si se trabaja en VS Code. En RStudio viene integrado.
 * [PostgreSQL](postgresql.org/download/) como administrador de bases de datos.
 
 ## Detección de problemas
