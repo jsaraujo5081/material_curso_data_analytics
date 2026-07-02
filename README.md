@@ -5,7 +5,7 @@ El repositorio ha sido desarrollado a partir de mi experiencia dictando talleres
 * Fundamentos de R y análisis de datos (4 capítulos).
 * Análisis exploratorio de datos (2 capítulos).
 * Comunicación de resultados (2 capítulos).
-* Herramientas complementarias y temas avanzados de análisis (3 capítulos).
+* Herramientas complementarias y temas avanzados (3 capítulos).
 
 ## Contenido del repositorio
 
